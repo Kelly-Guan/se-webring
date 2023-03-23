@@ -1,5 +1,10 @@
 // Each PR for adding a site needs to list 
 const allSites = [
+     {
+        "name": "Kelly Guan",
+        "year": 2027,
+        "website": "https://www.kellyguan.tech/"
+    },
     {
         "name": "Simran Thind",
         "year": 2025,
